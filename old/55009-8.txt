@@ -1,4 +1,40 @@
-*** START OF THE PROJECT GUTENBERG EBOOK 55009 ***
+The Project Gutenberg EBook of The Botanical Lore of the California Indians, by 
+John Bruno Romero and Ha-Ha-St of Tawee
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: The Botanical Lore of the California Indians
+       with Side Lights on Historical Incidents in California
+
+Author: John Bruno Romero
+        Ha-Ha-St of Tawee
+
+Release Date: June 30, 2017 [EBook #55009]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK BOTANICAL LORE--CALIFORNIA INDIANS ***
+
+
+
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
 
                                   The
                              BOTANICAL LORE
@@ -9,7 +45,7 @@
 
                                    by
                            JOHN BRUNO ROMERO
-                          “HA-HA-ST OF TAWEE”
+                          "HA-HA-ST OF TAWEE"
 
     [Illustration: Vantage Press Logo]
 
@@ -45,14 +81,14 @@
 
 
 Of all the books written concerning the Indians of North America, I
-don’t know of one which treats of the Indians’ great knowledge of
+don't know of one which treats of the Indians' great knowledge of
 medicine, the vast store which was theirs of plants and herbs which
 possessed curative and healing qualities, many of them far superior,
 even today, to the medicine used by the white physician.
 
 There is a reason. In some instances the white man did not get the
-correct information from his Indian brother due to the latter’s
-inability to make himself understood—this was, of course, also true of
+correct information from his Indian brother due to the latter's
+inability to make himself understood--this was, of course, also true of
 the former. Again, some information given was intentionally wrong due to
 the ill-feeling the Indian had for the white man. And again, many of
 those healing plants were held in such veneration by the Indians, that
@@ -71,8 +107,8 @@ describe certain plants whose curative properties have been kept a
 secret by the Indians for over one hundred years. This is the first time
 they are made known.
 
-The Indian, living close to and with nature—the greatest teacher of all
-for those who have eyes to see—became nature’s most intelligent pupil.
+The Indian, living close to and with nature--the greatest teacher of all
+for those who have eyes to see--became nature's most intelligent pupil.
 Gifted with the keenest observation and the ability to reason, he
 searched the discovered plants which nature herself had provided for any
 ailment, sickness, or mishap which might befall him.
@@ -110,8 +146,8 @@ the matter of curing this destructive disease was brought under serious
 discussion.
 
 That memorable meeting took place in the world-famous Palm Canyon,
-bordering the eastern slopes of San Jacinto Peak—better known to us by
-its true native name of _Tahquitz_—situated at the extreme eastern part
+bordering the eastern slopes of San Jacinto Peak--better known to us by
+its true native name of _Tahquitz_--situated at the extreme eastern part
 of Riverside County.
 
 After the adjournment of the meeting the chiefs and medicine men
@@ -123,16 +159,16 @@ Now, among those who had attended the meeting was Senior Chief Andres
 Lucero, of the Mahuna tribe, who was looked upon by all Indians as the
 possessor of the greatest knowledge of botanical medicine, and a
 master-teacher among his fellow tribesmen who rightly considered him as
-being without a peer in his field—thorough research and experimentation.
-In his experimental work he was more successful than any other, having
-had many years of experience. In addition, he possessed valuable medical
-knowledge which for centuries had been handed down from generation to
-generation, each recipient becoming a true master in the field of Indian
-medical science.
+being without a peer in his field--thorough research and
+experimentation. In his experimental work he was more successful than
+any other, having had many years of experience. In addition, he
+possessed valuable medical knowledge which for centuries had been handed
+down from generation to generation, each recipient becoming a true
+master in the field of Indian medical science.
 
 The men trained in the science of medicine were those who had a natural
-aptitude and inclination for the care of the sick—that is, men worthy of
-being selected to be taught anatomy and the various ailments of the
+aptitude and inclination for the care of the sick--that is, men worthy
+of being selected to be taught anatomy and the various ailments of the
 human body.
 
 Evidence of this is to be seen in paintings and hieroglyphics found in
@@ -149,7 +185,7 @@ One was the fever which accompanied pneumonia and which was, at times,
 fully as dangerous as any fever known to mankind. But it was easily
 overcome through the administration of compounded herb steam baths.
 
-In the course of time “Black Measles” made, by mere accident, its first
+In the course of time "Black Measles" made, by mere accident, its first
 appearance in the Pacific Southwest, again causing widespread terror
 among the Indians. However, Chief Andres Lucero had already decided what
 to do to check the epidemic. Standing calm and cool one morning and
@@ -159,15 +195,15 @@ scanning carefully each member of his tribe. At last, with tears in his
 eyes, showing how deeply moved he was at the woe of his people, he
 announced his decision. His words were few:
 
-“My sons and daughters, as the Great Spirit arises in the East, he comes
+"My sons and daughters, as the Great Spirit arises in the East, he comes
 to help us and he has given me the medicine and the power to cure all
 those of you who are sick. You will now go to the big cave where you
 will receive proper care and treatment. All of you shall go, even those
-who are not suffering from this devil’s disease. And you will all be
+who are not suffering from this devil's disease. And you will all be
 treated alike so that your blood shall be purified to guard you against
-the disease.”
+the disease."
 
-In other words, to render them “immune,” in our language of today.
+In other words, to render them "immune," in our language of today.
 
 Now, one of the many caves in the San Jacinto mountain range, one which
 formerly had been used for religious studies in Chino Canyon, was
@@ -175,8 +211,8 @@ converted into a cave-hospital and thousands of Indians were treated
 therein.
 
 Due to the supposition, at the time, that the measles, then an unknown
-malady among the Indians, was really another form of smallpox—the
-diagnosis made didn’t differ materially from the latter—the conclusion
+malady among the Indians, was really another form of smallpox--the
+diagnosis made didn't differ materially from the latter--the conclusion
 arrived at was to treat the disease accordingly.
 
 A tireless and stubborn fight was waged by Chief Andres Lucero. Day and
@@ -185,7 +221,7 @@ also instructing other chieftains what to do and what to use, thus
 letting them share in his success in healing the sick.
 
 Later on, the disease appeared in Twenty Nine Palms, in Borrego Valley,
-Indio, Coachella, Yuma, Temecula, Mojave, Tehachapi, Soboba—in fact, in
+Indio, Coachella, Yuma, Temecula, Mojave, Tehachapi, Soboba--in fact, in
 all the small Indian settlements throughout the desert and mountain.
 Chief Andres Lucero was extremely satisfied with the results of his
 labors which had laid the cornerstone of knowledge and preparedness for
@@ -203,8 +239,8 @@ However, the Chief stuck to his post until he saw his people safe. Those
 who died were comparatively few. The dead were those who, becoming
 panic-stricken through memories brought to their minds of former
 happenings, had fled into the desert. Had they but conquered their fears
-and obeyed the Chief’s orders, nothing would have happened to them.
-Those were the victims of the plague—the deserters from the tribes. The
+and obeyed the Chief's orders, nothing would have happened to them.
+Those were the victims of the plague--the deserters from the tribes. The
 smallpox was kept well under control in the settlements with only a two
 per cent death rate, which means practically nothing when compared with
 a previous death rate of fifty per cent caused by the same kind of
@@ -212,11 +248,11 @@ plague. In some localities it rose to almost ninety per cent. Truly
 those were dark days indeed for the American Indians.
 
 I shall now give, roughly, the medicinal plants used then and again in
-the same manner in the year 1918 when the “Black Plague,” commonly known
-as “Spanish Influenza” was raging throughout the American continent and
+the same manner in the year 1918 when the "Black Plague," commonly known
+as "Spanish Influenza" was raging throughout the American continent and
 Europe. It was a strange coincidence, indeed, that a great many of those
-who escaped death from the enemy’s bullets on the battlefield perished
-from the “Black Plague.” The Indians, however, again won their battle
+who escaped death from the enemy's bullets on the battlefield perished
+from the "Black Plague." The Indians, however, again won their battle
 against this frightful disease by the same means which had been employed
 against measles and smallpox with no loss of life whatsoever.
 
@@ -230,7 +266,7 @@ today, with no one to tell what had actually taken place in the wild
 mountain regions and the desolate desert, which were neither inhabited
 nor trespassed upon by the white race.
 
-The Indians compounded steam-bath herbs for the cure of “Black Measles”
+The Indians compounded steam-bath herbs for the cure of "Black Measles"
 and smallpox from the following:
 
                                             Indian Name
@@ -307,7 +343,7 @@ of diarrhea. The roots may be gathered and used at any time of the year.
                         CAPSELLA BURSA-PASTORIS
                             (_Ind. Pa-sil_)
 
-Also called Shepherd’s Purse. Probably one of the most common of all
+Also called Shepherd's Purse. Probably one of the most common of all
 plants in Southern California soils, growing throughout the year on
 irrigated lands and on arid soils. Boiled into a tea it is a certain
 cure for even severe cases of dysentery. No more than two to three cups
@@ -362,7 +398,7 @@ Skirting for its habitat the high mountain lands, it is very seldom
 found anywhere else. It is a native of California, and is used chiefly
 for the relief of ordinary stomach-ache. When in bloom it is very
 fragrant and blossoms from late May till June. (American
-Horsemint—sometimes called Pennyroyal)
+Horsemint--sometimes called Pennyroyal)
 
 
                 Fevers and constipation of the stomach.
@@ -415,8 +451,8 @@ taste.
 
 American Wild Vervain. Inhabits the lower coastal ranges and pasture
 lands. Its blooming period is from late in May until July. This plant is
-remarkable for bearing three different colored blossoms—in some
-localities white, in others, pink, and then again, blue—all this owing
+remarkable for bearing three different colored blossoms--in some
+localities white, in others, pink, and then again, blue--all this owing
 to the mineral soil formation. The root is used for complicated stomach
 fevers.
 
@@ -447,7 +483,7 @@ measles.
                          MIRABILIS CALIFORNICA
                        (_Ind. See-wish-pe-yack_)
 
-American Four O’clock. The root of this plant served the same purpose as
+American Four O'clock. The root of this plant served the same purpose as
 American Elderberry. Its habitat is Santa Barbara County, Calif., and it
 is not found anywhere else in a wild state.
 
@@ -578,7 +614,7 @@ drink the infusion when compounded in the way we know. The plant blooms
 from April to June.
 
 
-                           Women’s diseases.
+                           Women's diseases.
 
 
                          ARTEMISIA CALIFORNICA
@@ -635,7 +671,7 @@ smell, the infusion is very rich in flavor and not bad at all.
                            (_Ind. Che-vnes_)
 
 American Swamp Root. Habitat, swamps. This plant is plentiful in
-California—the territory where it grows wild could be measured in
+California--the territory where it grows wild could be measured in
 thousands of acres. When cut, dried, and powdered, it can be used for
 the disinfection of knife-cut wounds, and to draw and promote the growth
 of healthy flesh. (Spanish _Yerba Mansa_)
@@ -666,13 +702,13 @@ County and north of the southern borders of the San Joaquin Valley. This
 plant is very valuable, being very powerful and of great medicinal use,
 and much attention should be given it by men of science.
 
-The Indians used it universally in cases of serious and major wounds—the
-infusion being given the patient if symptoms of blood poisoning were
-present. Tetanus, commonly known as lockjaw, was easily overcome, thus
-eliminating the surgical operations so frequently resorted to by the
-medical profession. The infusion was also administered in cases of
-childbirth as a preventative of blood poisoning and gangrene with
-_Ramona polystachya_.
+The Indians used it universally in cases of serious and major
+wounds--the infusion being given the patient if symptoms of blood
+poisoning were present. Tetanus, commonly known as lockjaw, was easily
+overcome, thus eliminating the surgical operations so frequently
+resorted to by the medical profession. The infusion was also
+administered in cases of childbirth as a preventative of blood poisoning
+and gangrene with _Ramona polystachya_.
 
 
                                 OPUNTIA
@@ -681,7 +717,7 @@ _Ramona polystachya_.
 American Cactus Pear. Its habitat, the desert and dry lands. This plant
 was fully as important as _Piperacea_. The large leaves were scraped of
 their thorns and a plug made out of the leaf, according to the nature of
-the wound, and inserted into it, healing it quite rapidly—a first-class
+the wound, and inserted into it, healing it quite rapidly--a first-class
 piece of botanical surgery.
 
 
@@ -699,7 +735,7 @@ suet on one of the leaves, this was covered with another leaf and then
 placed, tied down firmly, over the thorn or splinter to be removed. It
 usually requires about 10 hours for the thorn to appear at the surface
 of the skin. The same procedure can also be used by persons who have
-accidentally stepped on a rusty nail—thus avoiding danger of blood
+accidentally stepped on a rusty nail--thus avoiding danger of blood
 poisoning. The simple poultice described above will prevent that.
 
 
@@ -711,7 +747,7 @@ very good healer in the treatment of skin eruptions, the infusion to be
 used as a wash.
 
 Inhabits the mid-coast and inland ranges, and, to the east, the
-territory where Daniel Boone’s activities played their part and took
+territory where Daniel Boone's activities played their part and took
 their place in American history. Nothing, however, is mentioned about
 this plant at the time the Indians were pursuing him in the wilds of
 Kentucky, and yet it was one of the strong vines of _Clematis_ which
@@ -765,7 +801,7 @@ The root of the plant was used for common coughs and chest colds.
                          (_Ind. Sa-ca-pe-yote_)
 
 American Joe-Pye Weed. It was used for the same purpose as _Spiraea
-salicifolia_ in localities where that plant couldn’t be obtained,
+salicifolia_ in localities where that plant couldn't be obtained,
 although the latter was greatly preferred for the extra medicinal
 qualities it possessed as a mild laxative. The root, when made into an
 infusion, is extremely pungent and rich in flavor, but agreeable in
@@ -788,12 +824,12 @@ ordinary coughs and sore throats.
 
 American Black Sage. This plant is one of the most valuable of all for
 the cure of deep dry coughs of long standing, which have settled in the
-bronchial tubes. This does not mean coughs of two or three weeks’
+bronchial tubes. This does not mean coughs of two or three weeks'
 duration, but those which have existed for a period of from four to six
 months and which have, therefore, reached a chronic, dangerous stage.
 
 The infusion was made full strength and given to the patient in small
-doses, hot—never cold—in the daytime, and one extra big dose before
+doses, hot--never cold--in the daytime, and one extra big dose before
 retiring.
 
 
@@ -880,7 +916,7 @@ European countries where it gradually became the outstanding cathartic
 of all.
 
 And this is the _Rhamnus californica_, the medicine of the Indians,
-named by Junipero De Serra _Cascara sagrada_—“Sacred Bark.”
+named by Junipero De Serra _Cascara sagrada_--"Sacred Bark."
 
 
                                 Kidneys.
@@ -1005,7 +1041,7 @@ conduits, followed afterwards by sniffing the powdered compound before
 retiring for the night.
 
 
-                 HELENIUM AUTUMNALE—HELENIUM NUDIFLORUM
+                HELENIUM AUTUMNALE--HELENIUM NUDIFLORUM
                             (_Ind. Pe-bah_)
 
 American Sneeze-Weed. Both inhabit swamps and mountain springs.
@@ -1043,7 +1079,7 @@ glory during the month of October when everything else in the way of
 flowering trees and shrubs is lying dormant. Thousands of acres in the
 desert may be seen carpeted with this golden color, blending with that
 of autumnal foliage and geological soil formation which also glows in
-many tints, offering wonders of inspiration to the artist—the greatest
+many tints, offering wonders of inspiration to the artist--the greatest
 interpreter of the works of nature next to the botanist, geologist and
 naturalist.
 
@@ -1107,7 +1143,7 @@ arrowheads and small mortars, metates made of the volcanic rock found on
 the islands, and also ironwood. These were all materials much preferred
 by the Indians to those of the mainland, which were rather unfit to
 shape into stone utensils because they did not have the proper cleavage.
-The Santa Barbara mountain ranges offered none of these materials—only
+The Santa Barbara mountain ranges offered none of these materials--only
 the minerals, Ullmannite, Oligocene rock and red jasper which sometimes
 served as passably fair substitutes.
 
@@ -1124,16 +1160,16 @@ mainland where they were planted.
 
 Later, on its introduction among other Indian tribes of the coastal
 belt, the plant found its way north- and southward until the coming of
-the California mission founders. They learned of the plant’s medicinal
+the California mission founders. They learned of the plant's medicinal
 value through Indian information, and were only too glad to adopt it for
-their own use—that plant and many others which proved superior to those
+their own use--that plant and many others which proved superior to those
 brought by them from Europe and which they then discarded.
 
 Thereupon the friars adapted themselves to the care and use of the herbs
 of the Indians.
 
 This is the story of the _Malva rosa_ after which the island of Santa
-Barbara bears its name _Santa Rosa_, or “Holy Rose,” and botanically
+Barbara bears its name _Santa Rosa_, or "Holy Rose," and botanically
 _Rosa gallica_.
 
 
@@ -1163,7 +1199,7 @@ swelling and counterpressure from the drying bark. The time involved in
 healing broken bones could well be considered two thirds of the time
 taken under the hands of modern skilled surgeons.
 
-In parts of the country where the elm wasn’t available a freshly killed
+In parts of the country where the elm wasn't available a freshly killed
 rabbit, its skin quickly removed and slipped onto the broken joint
 served equally as well, only it required more time to heal.
 
@@ -1174,7 +1210,7 @@ served equally as well, only it required more time to heal.
                           FOUQUIERIA SPLENDENS
                           (_Ind. Gaiesh-pohl_)
 
-American Desert Candlewood. Spanish, _Ocotillo_. This plant’s habitat is
+American Desert Candlewood. Spanish, _Ocotillo_. This plant's habitat is
 the southeastern wings of the Mojave Desert, and the locality best
 suited to its growth is Borrego Valley at the northern border of San
 Diego County. This great valley, at one time very rich and fertile, was
@@ -1200,7 +1236,7 @@ and left to burn as the grave was covered.
 Cremation took place slowly but surely.
 
 Little evidence was left for the grave robber or the anthropologist. And
-still less for the archaeologist, as the defunct’s pottery and rock
+still less for the archaeologist, as the defunct's pottery and rock
 mortars also were disposed of by being broken into thousands of pieces,
 and then scattered over the grave.
 
@@ -1208,15 +1244,15 @@ There is more to be said about this historical valley in that it was the
 main artery of caravan travel of the intrepid American and Mexican
 pioneers, and of the Spanish explorers, who all in turn were met and
 held up by the Indians for information. Those not offering resistance
-were allowed to pass through the territory unmolested—provided, of
-course, they wouldn’t hang around the valley.
+were allowed to pass through the territory unmolested--provided, of
+course, they wouldn't hang around the valley.
 
 However, quite a number of bloody battles took place there, between
 Indians and whites, as the latter, having had some experience with
 hostile Apaches when crossing the desert, misunderstood the signals of
 the Ca-we Indians. Instead of waiting to see what they wanted, the
 leading scouts of the caravan ordered every man to stand by and, as the
-Indians came near, they opened fire on them. This didn’t prove of
+Indians came near, they opened fire on them. This didn't prove of
 benefit to the pioneers and only resulted in disaster, thus putting an
 end to their journey.
 
@@ -1238,7 +1274,7 @@ westward. In this the Indians helped him by pointing toward the Pacific
 coast. De Anza reported to his superiors the finding of emeralds, but in
 this he was mistaken as the precious stones found in those mountains are
 mostly tourmalines in a great variety of tints, including green. This
-probably accounts for De Anza’s naming them emeralds. They also occur in
+probably accounts for De Anza's naming them emeralds. They also occur in
 red, pink, yellow, white and black, with spodumene crystals in violet
 and purple.
 
@@ -1250,7 +1286,7 @@ still remembered for the discipline and control he kept over his men, a
 fact which greatly facilitated his progress. And his goodwill and
 kindness toward the Indians were of the purest humaneness, standing out
 brightly as attributes of genuine manhood. Very few Spaniards could
-boast of such qualities—they ordinarily were brutal, and their history
+boast of such qualities--they ordinarily were brutal, and their history
 was written in blood in those days.
 
 The Mexican soldiers who arrived later, by way of this valley, committed
@@ -1265,14 +1301,14 @@ men were under strict military discipline and the blue uniforms worn by
 officers and troopers caused much admiration among the Indians. Little
 did they know, however, that behind this army was a power and authority
 which could be exercised without cause or provocation in the name of the
-government of the United States—and that was exactly General Kearny’s
+government of the United States--and that was exactly General Kearny's
 mission: to retake the lands held by the Mexicans as their own at San
 Pasqual. He became engaged in a heated battle with Mexican soldiers and
 civilians and his casualties were so heavy that he faced defeat. As a
 last resort, he appealed to the Indians chiefs for help, and the Ca-we
 Indians, remembering only too well the atrocities and brutalities
 committed upon their women by the soldiers of Mexico, granted the
-General’s request and dispatched five hundred warriors to aid General
+General's request and dispatched five hundred warriors to aid General
 Kearny.
 
 Arriving at the battlefield, the Indian braves attacked the Mexicans
@@ -1285,12 +1321,12 @@ rights, the Indians alone were responsible for the victory, is not known
 to us. But we have every reason to believe that the report was in his
 favor in order to shield the command from embarrassment were it to
 become known that Indian aid and tactics had been the deciding factor.
-At any rate, up to the present time, Indian records don’t show any
+At any rate, up to the present time, Indian records don't show any
 letter of acknowledgment ever having been received from the United
 States Government for the service rendered General Kearny.
 
-Instead of receiving at least a “Thank you,” they were from that time on
-looked upon as “easy,” believing anything that was told them—and this
+Instead of receiving at least a "Thank you," they were from that time on
+looked upon as "easy," believing anything that was told them--and this
 was proved to their own satisfaction in 1851-52. No doubt some of our
 fellow citizens do not know what this means. Therefore, to elucidate a
 little, let me say that this was the time when a benevolent government
@@ -1306,10 +1342,10 @@ signed agreement, at the rate of $1.25 per acre, and to this day the
 Indian is still waiting for it. The politicians, however, lost no time
 but took over as much as they could of these rich Indian lands and
 eventually the entire open country was known as the Ranch of Senator
-“This,” or Senator, Congressman, or Colonel “That.”
+"This," or Senator, Congressman, or Colonel "That."
 
 That the longest road has a turning was proved by the battle of San
-Pasqual: it opened the Indians’ eyes to many things—such as, that had
+Pasqual: it opened the Indians' eyes to many things--such as, that had
 they but stayed out of it or used our forces otherwise, a different
 story would be told. The Indians were expelled from the Borrego Valley.
 We need no explanation here that they were good strategists and fighters
@@ -1335,13 +1371,13 @@ American Willow Tree. This is a common inhabitant of most of our swamps
 and rivers and is occasionally met with far inland. Like the elm tree,
 it is very fond of water, and both species may be found growing together
 in the desert or dry mountain gorges. We should, therefore, always look
-for such places when in want of water—for it is sure to be close to the
+for such places when in want of water--for it is sure to be close to the
 surface and can be had by digging a few feet underground.
 
 The Indians, when traveling across country, always stopped at such
 places where these trees were growing, and water was obtainable very
-quickly in sufficient quantities for domestic use. Don’t get discouraged
-if you don’t find water seepages on the surface. You must remember that
+quickly in sufficient quantities for domestic use. Don't get discouraged
+if you don't find water seepages on the surface. You must remember that
 the elm and the willow growing around that ancient fountain consume most
 of the water coming upward to the surface.
 
@@ -1418,15 +1454,15 @@ treatment of trachoma, and rattlesnake, black-widow and scorpion bites.
                        ESCHSCHOLTZIA CALIFORNICA
                            (_Ind. Tee-snnat_)
 
-American Golden Poppy. The true native flower of our western domain—the
+American Golden Poppy. The true native flower of our western domain--the
 flower of the beautiful, rich golden color. However, being a poisonous
 plant, the poppy fields were of no use to the good morals and medical
 practice of the Indian doctors in the days gone by. But the notorious
 witch-doctor, having more of the devil in him than of anything else,
 made general use of this plant to compound some of his poisonous
 medicines in his irregular and evil practice. This may be strange to
-learn, but we had its counterpart among other races—the white race
-included—where witchcraft with its incantations, love potions and
+learn, but we had its counterpart among other races--the white race
+included--where witchcraft with its incantations, love potions and
 straight poisoning of humans played quite a role. And so it was here
 among the Indians. For instance, if a woman became enamoured of a
 certain man and the object of her affections paid no attention to her
@@ -1436,7 +1472,7 @@ her immoral desires thwarted, resorted to the witch-doctor. He would
 compound a preparation with the poppy as one of its main ingredients.
 This was then given to the innocent victim with the help of a second or
 third party, either in a solid or liquid form, and in less than
-twenty-four hours after partaking of it the poor fellow’s mentality
+twenty-four hours after partaking of it the poor fellow's mentality
 became befogged and powerless, and was thus easily controlled by the
 evil woman.
 
@@ -1451,9 +1487,9 @@ return.
 
 The poisoned victim was placed in the hands of the tribal doctor who
 gave him an antidote which counteracted the poison given by the
-witch—something which no white doctor has been able to do in spite of
+witch--something which no white doctor has been able to do in spite of
 his knowledge of medical science and chemistry. Cases of such nature
-have happened among Indians and yet the patient’s normal state of mind
+have happened among Indians and yet the patient's normal state of mind
 and health was restored.
 
 
@@ -1491,13 +1527,13 @@ The Indian rider concealed under the bosom of his buckskin shirt two
 pieces of skin, one from a fresh bearskin and the other from that of a
 mountain lion. When both riders were lined up for the race and right at
 the moment of taking off, the Indian, with a quick jerk, would pull both
-skins—which were hanging on a string—from under his shirt and his
-opponent’s horse, quickly scenting them, would stop and balk, throw up
+skins--which were hanging on a string--from under his shirt and his
+opponent's horse, quickly scenting them, would stop and balk, throw up
 his head and look fearfully around in all directions.
 
-The Indian made the wire easily and thus the other horse’s deceiving
+The Indian made the wire easily and thus the other horse's deceiving
 owner lost the race and also his ill-gotten gains, proving again that
-crime, in any form, doesn’t pay in the long run.
+crime, in any form, doesn't pay in the long run.
 
 
                   Hair tonic, hair and scalp diseases.
@@ -1528,7 +1564,7 @@ situated at the northern end of San Diego County, and thence
 southeastward to the Mexican border. The Indians made special trips to
 places where this plant grew, and spent several weeks at a time in
 harvesting it. The root is very important and yields the proper
-ingredients to compound one of the finest hair tonics known—greatly
+ingredients to compound one of the finest hair tonics known--greatly
 superior to the best on the American market of today.
 
 After gathering the plants, the Indians roasted the leaves in covered
@@ -1553,7 +1589,7 @@ thorny cucumber. It is very bitter to the taste and the seeds are very
 pretty, running into the various shades of white, yellow, gray, black,
 olive-green, brown, and red.
 
-In the ’90s the white people discovered that they could be worked into
+In the '90s the white people discovered that they could be worked into
 portieres, hanging ornaments, etc., as they looked so beautiful and the
 fad became so strong that young and old would search for these seeds all
 over the country with the result that the plant became almost extinct,
@@ -1569,7 +1605,7 @@ highways as the custom is among certain humans of today.
 
 _Micrapelis micracarpa_ was used in the treatment of ringworm in the
 epidermis. Juices extracted from the rind of the thorny cucumber were
-rubbed into afflicted parts—a sure and effective remedy.
+rubbed into afflicted parts--a sure and effective remedy.
 
 For the treatment of diseased scalps and hair roots the oil extracted
 from the seeds is massaged into the scalp and thus prevents the falling
@@ -1577,7 +1613,7 @@ out of the hair.
 
 The juice of _Micrapelis micracarpa_ will remove human bloodstains, one
 of the most difficult stains to remove. The Indian made quite frequent
-use of it—when returning from the battlefield or a hunting trip—to
+use of it--when returning from the battlefield or a hunting trip--to
 remove such stains from his buckskin clothes.
 
 
@@ -1598,7 +1634,7 @@ to do toward keeping their buckskin clothes and blankets clean. Very
 soon after the vandals from Spain invaded our country, they adopted this
 plant in place of their greasy soaps. When the gourds were fully matured
 they were gathered and put away in the shade to dry for winter use. For
-the day’s washing, one gourd was put in about ten gallons of water to
+the day's washing, one gourd was put in about ten gallons of water to
 help bleach the clothes, while large, square pieces were cut from the
 roots (which grow to an immense size) and were used as root soap bars
 for rubbing the clothes laid on a smooth log or a flat rock. Another
@@ -1640,7 +1676,7 @@ bulb and flowers being used for the purpose. Blooms from March to May.
                CEANOTHUS DIVARICATUS and PINUS SABINIANA
                     (_Ind. O-Oot_)    (_Ind. Wa-at_)
 
-The California Lilac—Spanish _Chaparral_—an inhabitant of the mountain
+The California Lilac--Spanish _Chaparral_--an inhabitant of the mountain
 ranges, blooms like the common lilac and is very beautiful.
 
 Attracting every nature lover, this gigantic shrub is possessed of a
@@ -1651,7 +1687,7 @@ As I am writing Indian legends through botany, I, for the first time,
 shall reveal the virtues of this shrub and it should prove of the
 greatest interest to those engaged in scientific research, especially in
 geology and botanical chemistry. And if the shrub is used as the Indians
-used it—and still do—it will help to safeguard life when thunder and
+used it--and still do--it will help to safeguard life when thunder and
 lightning are at their worst at timber line of high mountainsides and
 peaks.
 
@@ -1686,7 +1722,7 @@ rightful owner appeared.
 
 The author of _Chi-nich-nich_, Dr. John P. Harrington, of the Department
 of Ethnology of the Smithsonian Institution, found himself against a
-wall when he wrote something about this “wizard” mineral under its
+wall when he wrote something about this "wizard" mineral under its
 Indian name without a sample from his Indian informant, Mr. Albanes. Dr.
 Harrington was unable to give a firsthand description and had no
 definite idea of what the mineral actually was until he requested me to
@@ -1698,10 +1734,10 @@ drew my own conclusions and withheld any criticism. This I did, not
 deeming it wise to make any remarks about parts of the work which did
 not represent the true phases of Indian life, for, as I held the key
 that would correct those parts, any criticism from me would only have
-led to my being questioned as to my knowledge of things which I didn’t
+led to my being questioned as to my knowledge of things which I didn't
 feel at liberty to divulge.
 
-Accordingly, my identification of the “wizard stone” broke up an
+Accordingly, my identification of the "wizard stone" broke up an
 expensive Smithsonian expedition which was to be made by a group of
 geologists, with all its branches well-represented, in search of
 magnetic iron. Now, this is a mineral which has some commercial value in
@@ -1712,41 +1748,41 @@ so-called lodestone is sold today to a good many people as a talisman.
 
 This lodestone is nothing more than common magnetic iron, yellow in
 color due to the large amount of sulphur in the mineral. The silver-gray
-magnetic ore which was the Indian’s “wizard stone” derives its color
+magnetic ore which was the Indian's "wizard stone" derives its color
 from the arsenic it contains. Furthermore, many other spurious
 contrivances are being sold, not to Indians but to white people of even
 very superior intelligence and P. T. Barnum fell far short in his
 estimate of the number of people just waiting to fall into the snare of
-deception, with his famous remark that “a sucker is born every minute.”
+deception, with his famous remark that "a sucker is born every minute."
 Every second would be nearer the truth.
 
 By personal investigation which I made I found that some of these
 deluded victims, men and women both, carry upon their persons lodestones
-for “luck,” whereas others think that by wearing them concealed close to
+for "luck," whereas others think that by wearing them concealed close to
 the flesh it gives them a strong magnetic personality and thereby they
 command the attention they desire from others.
 
 This is not likely to happen. You can magnetize your body, to be sure,
 but not this way. The right way is the way of the Indians of wisdom,
-nature’s way. If you are getting sluggish, low in vitality and vigor, it
+nature's way. If you are getting sluggish, low in vitality and vigor, it
 simply means that the battery-cells of your body are low and need
 recharging. Civilization has to some extent deprived us of this great
 body builder and has isolated us until the flesh of our feet does not
 make contact with the vast electrical currents of Mother Nature. To
 receive any benefits from this natural resource you must not wear shoes
 in the spring or early summer months, and, weather permitting, go to
-some lonely place where you are sure there won’t be any interference by
+some lonely place where you are sure there won't be any interference by
 the authorities, remove your clothing and then lie flat on the ground
 with your muscles well relaxed.
 
 While doing this, dismiss from your mind everything which would cause
 you worry. Slowly but surely you will find yourself to be a different
 man if this is repeated yearly. Thus you will have learned to
-“magnetize” your soul and preserve yourself for the many years before
+"magnetize" your soul and preserve yourself for the many years before
 you, as most Indians do.
 
 How to be free from daily annoying trivialities, which only serve to
-undermine one’s health, weaken one’s body and render one an easy prey to
+undermine one's health, weaken one's body and render one an easy prey to
 disease and misery, the Indian understood thoroughly. Instead, he
 cultivated poise, and reached such perfection that he became the envy of
 the white race in that respect.
@@ -1765,7 +1801,7 @@ narcotic and when the leaves are properly cured they can be used either
 in the form of tea or smoked, but withal, very sparingly, since an
 overdose may very likely cause one to be committed to an insane asylum,
 as it is a rank poison and its effect may even land one in an
-undertaker’s mortuary. Therefore, my advice is to leave it alone.
+undertaker's mortuary. Therefore, my advice is to leave it alone.
 
 My Indian brothers, being unable to give correct information to
 hard-shelled scientists and writers through a poor knowledge of the
@@ -1778,7 +1814,7 @@ Considering, however, the value and uses of _Datura meteloides_, I
 assert that this decision was very irregular and out of all proportion
 as to what it was intended. We know that everything can be abused, yet
 some of our Indian brothers who wished to live in ignorance and
-superstition had a perfect right to do so. In truth, it wasn’t so with
+superstition had a perfect right to do so. In truth, it wasn't so with
 all Indians and there were really some great minds amongst them.
 
 When, for instance, the Chinaman wishes to see the beautiful lotus and
@@ -1788,7 +1824,7 @@ opium-pipe.
 Then, how about our boasted white civilization which is supposed to be
 superior to all? Some, of course, like to see Yankee Doodle marching
 down the street, others draw the hypodermic from its case to stimulate
-the vision of desire—or sniff cocaine through the nostrils for the same
+the vision of desire--or sniff cocaine through the nostrils for the same
 purpose.
 
 How much, I ask, has present-day civilization to offer the Indian? Kind
@@ -1796,7 +1832,7 @@ readers and hard-shelled scientists, I pray you, let us be rational and
 let us go deeper into the field of investigation. And I advise you for
 your own good to do so even if _Datura meteloides_ has failed to make
 its appearance in the pharmacopoeia with its commercial mark [*Rx]
-prefixed with the “M.D.” As I have said once before, there is very
+prefixed with the "M.D." As I have said once before, there is very
 little in the drugstores today for which the Indian cannot find a
 substitute in the great field of nature. The plants I am writing about
 in this book represent just one-fourth of the medicinal botany of our
@@ -1808,7 +1844,7 @@ a medicine case consisted of for the general practice of medicine in the
 early days, in those days when most people of the white race thought
 themselves further advanced in medicine than the Indians. Such was not
 the case by far, and for a comparison and evidence of my assertion I
-submit a résumé of the contents used by the first white doctor to
+submit a r�sum� of the contents used by the first white doctor to
 practice medicine in the State of California. His name I omit. His soul
 is at rest!
 
@@ -1832,8 +1868,8 @@ poison of the tarantula? None, of course!
 
 Not so long ago a man in New Orleans, La., gave up his life for want of
 a serum that would counteract the poison of a tarantula which had bitten
-him. Three doctors, equipped with all the white man’s knowledge of
-medicine and chemistry, strove desperately hard to save the man’s life
+him. Three doctors, equipped with all the white man's knowledge of
+medicine and chemistry, strove desperately hard to save the man's life
 but finally gave up in despair and frankly admitted that to date no
 serum had been discovered to conquer the poison of the tarantula!
 
@@ -1844,7 +1880,7 @@ A practical and effective demonstration was given in the presence of a
 group of mission friars at San Gabriel, California, in the year 1828.
 The friars, having heard that _toulache_ was used by the Indians to cure
 rattlesnake bites, lost no time in watching attentively the procedure
-followed by the Indian in charge—Genio Guana-pia-pa was the medicine
+followed by the Indian in charge--Genio Guana-pia-pa was the medicine
 man. The patient was seated before them well-covered with a blanket,
 with only an opening remaining around the neck in order to permit
 _Datura meteloides_ to be poured over his body. All this, of course, was
@@ -1874,10 +1910,10 @@ white brothers, and, therefore, I could not say that what cannot be done
 today can be done ten years from now. Our religion and philosophy teach
 us that the heart is the pendulum of life, each stroke representing
 timely death which may befall us with one of these strokes any moment,
-and so don’t forget _Datura meteloides_.
+and so don't forget _Datura meteloides_.
 
 Once an incident occurred when _Datura meteloides_ was being prepared at
-a place where the spying eyes of the friars couldn’t observe it. Enough
+a place where the spying eyes of the friars couldn't observe it. Enough
 plundering had been done already, and the Indians had no desire to
 divulge their secret. They would only show them what they could do. One
 of the friars, full of doubt and curiosity, asked one of the Indians
@@ -1886,15 +1922,15 @@ go with him into one of the fields north of the Mission, pretending he
 wanted information as to certain plants growing there. When there, the
 friar drew near to a _Datura meteloides_, and at once began questioning
 the Indian about the plant, whereupon the Indian refused to give
-information. The friar, seeing he couldn’t make him yield, began kicking
+information. The friar, seeing he couldn't make him yield, began kicking
 at the plant, uttering at the same time Latin words, which of course
 were wholly unintelligible to the Indian. The friar did that only to
 make the Indian show resentment, thinking he had cursed a plant which,
 to the Indian, was sacred.
 
-However, the friar’s scheme didn’t work; the Indian stood by in silence,
+However, the friar's scheme didn't work; the Indian stood by in silence,
 until at last the saintly friar lost control of his temper, damned the
-Indian and his herbs and finally told him that if he’d dig up one of the
+Indian and his herbs and finally told him that if he'd dig up one of the
 roots he would chew it, nay, even swallow it, just to show him it was
 worthless.
 
@@ -1934,17 +1970,17 @@ Now came our water compasses, very primitive in form, but instructive
 and true to sense of direction as direct leaders to water holes.
 
 Of course the Indians venturing across the arid desert were always
-careful to take with them the _Sempervivum_—House Leek—and, as an extra
-measure of precaution, another plant which grows abundantly in the
+careful to take with them the _Sempervivum_--House Leek--and, as an
+extra measure of precaution, another plant which grows abundantly in the
 semi-arid regions. These very same things were taught some of the old
 white pioneers who were friendly and had shown kindness to the Indians,
 while others perished from lack of knowledge of how to make use of these
-plants—the _Echinocactus_ and the _Sempervivum_, which furnish
+plants--the _Echinocactus_ and the _Sempervivum_, which furnish
 thirst-quenching juices.
 
 The thorns of the _Echinocactus_ were used by the Indians as fishhooks
 for deep-water fishing so that the modern fishhook is by no means the
-white man’s invention.
+white man's invention.
 
 Both the _Echinocactus_ and _Sempervivum_ were also used for the
 prevention of swelling of the salivary glands as a result of the tongue
@@ -1966,7 +2002,7 @@ tracing it through its scent to its place of growth, where the flowering
 stocks were carefully gathered so that the root and crown system
 suffered no injury. Extra precaution was taken for the next annual
 blooming season, for most of the plants were of a delicate nature. As
-far back as I can remember, in the late ’90s, the _Trichostema lanatum_
+far back as I can remember, in the late '90s, the _Trichostema lanatum_
 grew in abundance along the near coastal ranges, but gradually this very
 valuable plant became a victim of extermination through brush fires at
 the hands of careless hunters and the clearing of land by farmers. The
@@ -1977,7 +2013,7 @@ refuge with hundreds of others which are of great medicinal value also.
 
 Furthermore, from such localities Indian hunters would gather the seeds
 and carry them still further into the mountains for safety and for
-purposes of propagation. Today it is solely due to the Indian’s
+purposes of propagation. Today it is solely due to the Indian's
 foresight that _Trichostema lanatum_ is found plentifully in the
 Pe-we-pe mountains, better known today as the San Gorgania mountains. It
 is also found in Riverside County and the San Jacinto mountains, on
@@ -2012,9 +2048,9 @@ the desert poinsettias, marguerites, desert and scrub pines. All a riot
 of color, but the _Eriogonum_ survives them all into September. What a
 wonderful array of color greets the eye! As far as it can see it is
 fairly stunned by these glowing tints and hues, from rich ultramarine to
-pale yellow—red, lavender, purple, pink, light blue, to the purest cream
-white. This blooming season ends in July, but alone the _Eriogonum_
-keeps on blooming till September.
+pale yellow--red, lavender, purple, pink, light blue, to the purest
+cream white. This blooming season ends in July, but alone the
+_Eriogonum_ keeps on blooming till September.
 
 Then there is one short rest period for about one month as if in
 preparation for a carpet of golden blooms.
@@ -2067,20 +2103,20 @@ all mounted in this milk-juice preparation of the _Asclepias syriaca_.
 This kind of jewelry was worn by Indians of a higher civilization as
 talismans, just as civilized people of today wear similar ornamental
 articles with more or less superstitious belief. We need only point to
-the so-called “charms” worn by many to bring luck, ward off disaster or
-sickness—in fact, for more reasons of a superstitious nature than the
+the so-called "charms" worn by many to bring luck, ward off disaster or
+sickness--in fact, for more reasons of a superstitious nature than the
 Indian ever thought of.
 
 A great deal in the way of royalties are due the Indian, in return for
 the use of his art-craft, yet a few jewelry items have been overlooked
-by Mr. Jeweler—items which, peradventure, may bring him great wealth if
+by Mr. Jeweler--items which, peradventure, may bring him great wealth if
 properly ballyhooed.
 
 Let us take, for instance, the case of the witch-doctor among the
-Indians with his special ornamental necklace—the symbol of his
-profession—a necklace denoting supernatural powers, a crystal quartz for
-a nose-piece. The necklace is made of eagle-, bear- and lion-claws, the
-poison fangs of rattlesnakes, etc.
+Indians with his special ornamental necklace--the symbol of his
+profession--a necklace denoting supernatural powers, a crystal quartz
+for a nose-piece. The necklace is made of eagle-, bear- and lion-claws,
+the poison fangs of rattlesnakes, etc.
 
 It must be understood, however, that the necklace mentioned will not
 endow the wearer of it with any power whatsoever, unless those various
@@ -2089,7 +2125,7 @@ manufacture of such a necklace somewhat hazardous and dangerous.
 
 As far as is known, no patent has been granted yet on the process of
 getting these necklace ornaments in compliance with the rules of
-“Charm-Craft.” So here is a fine chance for some enterprising,
+"Charm-Craft." So here is a fine chance for some enterprising,
 courageous jeweler to strive for renown and riches.
 
 But, Mr. Jeweler, there must be no copying, no pilfering of any sort.
@@ -2106,7 +2142,7 @@ found waiting.
 American California Mountain Laurel. It may be of interest to sportsmen
 that this plant, growing in the high mountain ranges, is as greatly
 relished by the deer as _Hosackia glabra_. Deer in large numbers look
-for this shrubby tree and this is the key to the white man’s puzzle why
+for this shrubby tree and this is the key to the white man's puzzle why
 Indians are such successful hunters. It is simply that the Indian lived
 the life God intended him to, and, through close association with
 animals in the wilderness, he became proficient in observing their
@@ -2133,7 +2169,7 @@ coat of hair. Two Indians would work together, beginning with yelling,
 singing, and dancing around him to such effect that he became very angry
 and charged one of the hunters. With speed and precision the other one
 would run up to the bear from behind and shoot his arrow straight into
-the bear’s kidneys, thus in most cases rendering the bear quite
+the bear's kidneys, thus in most cases rendering the bear quite
 helpless; and try as hard as he might to turn on his enemy, his efforts
 proved futile. Paralyzed in the hind legs due to the arrow being
 imbedded in the kidneys handicapped him so that he had to vent his rage
@@ -2149,7 +2185,7 @@ attracted by gunfire. Driven by suspicion and curiosity, they decided to
 investigate and went to where the shooting was taking place. Great,
 indeed, was their surprise when they came upon two white hunters
 battling with a grizzly and it seemed that the bullets of the old-time
-muzzle-loading gun didn’t prove up to expectations. There was very
+muzzle-loading gun didn't prove up to expectations. There was very
 little time to reload, so one of the hunters threw his gun away and fled
 with the other partner in close pursuit, the wounded bear right on their
 heels and in full command of the situation.
@@ -2157,12 +2193,12 @@ heels and in full command of the situation.
 The sight of this caused the chiefs great mirth and fun, and from that
 day forth, it was made known to all the tribes that the bear had some
 human understanding, had no use for the white man and was the protector
-of the Indians’ domain. The act witnessed by the chiefs that day made
+of the Indians' domain. The act witnessed by the chiefs that day made
 the bear a regular member and scout of honor of all tribes facing a
 possible invasion of their virgin country.
 
 In spite of all this, however, the white man resorted to the use of
-traps and poisoned bait to exterminate the Indians’ friend. But, advised
+traps and poisoned bait to exterminate the Indians' friend. But, advised
 by some intelligent instinct this animal had, the bear decided suddenly
 to leave, and drifted away into Mexico and to northern latitudes.
 
@@ -2179,10 +2215,10 @@ living in earlier days, now gone by.
                             (_Ind. Pa-sal_)
 
 This plant belongs to the food division but plays another important
-rôle, considering what it means to a person to be relieved of the
+r�le, considering what it means to a person to be relieved of the
 excruciating pain caused by the introduction of a foreign substance into
 the eye, thus producing a temporary obstruction of the vision. Many
-Indians, after a hard day’s hunting or riding through severe sandstorms,
+Indians, after a hard day's hunting or riding through severe sandstorms,
 had this experience, and consequently, they never neglected to give
 their eyes proper care.
 
@@ -2213,7 +2249,7 @@ and the bare feet and threshing with long sticks. By thus beating the
 heap of _Columbriae_, they released the seeds which were then winnowed
 by being blown before a wind current made with the aid of two baskets.
 After this, they were carried to the grinding stones to be ground into a
-fine meal which made excellent porridge—a very popular dish among
+fine meal which made excellent porridge--a very popular dish among
 Indians.
 
 
@@ -2232,7 +2268,7 @@ many as three hundred adult persons.
 A great deal has been written in song and poetry in praise of the
 stately oak but the Indians found out by experience that the acorns it
 bore were far more nutritious than poetry, and before long the noble
-tree was adopted as a regular member of the tribes—a bountiful provider
+tree was adopted as a regular member of the tribes--a bountiful provider
 of food.
 
 Even so, the oak was by them much honored in war and love songs, for the
@@ -2286,7 +2322,7 @@ could be better.
 The blades of the grass were gathered and burned to the consistency of
 charcoal, then finely powdered and sprinkled on the bleeding parts.
 
-When this couldn’t be obtained, the Indians further inland had recourse
+When this couldn't be obtained, the Indians further inland had recourse
 to the apples growing on the Scrub-Oak or _Quercus agrifolia_, and these
 were, of course, dried and powdered, and medicated with balsam oil. The
 salve proved to be very effective in healing the afflicted parts. In
@@ -2331,11 +2367,11 @@ leaf design inhabits the high mountain ranges where there are
 well-shaded forest lands rich in mulch. This fern is well-known to every
 Indian for the sad historical part it played in the life of our fair and
 beloved sister Ramona, the daughter of Ca-we and wife of Alessandro, the
-immortal Indian who suffered death without a moment’s warning at the
+immortal Indian who suffered death without a moment's warning at the
 hands of a brute and coward.
 
 The authoress of _Ramona_, Helen Hunt Jackson, mentions in her book what
-good use of this fern Alessandro made in preparing Ramona’s bed at the
+good use of this fern Alessandro made in preparing Ramona's bed at the
 time of their elopement and tells of the hardships both young lovers
 underwent.
 
@@ -2345,8 +2381,8 @@ which is extremely rich in flavor when the shoots are properly cut and
 cooked.
 
 There are ferns in song, ferns in poetry, ferns where wedding bells
-ring, ferns on the altars of churches and ferns in God’s acre. Also in
-gardens, but nature’s garden is where the Indian wants them!
+ring, ferns on the altars of churches and ferns in God's acre. Also in
+gardens, but nature's garden is where the Indian wants them!
 
 
                           Food and bleaching.
@@ -2390,7 +2426,7 @@ affected to such an extent that they became numb, cold and useless. The
 cure was very simple if your limbs were in a bad state, but rather
 unpleasant if in a sound condition.
 
-The nettle was cut and brought to the Indian patient’s bedside, where
+The nettle was cut and brought to the Indian patient's bedside, where
 the leaves were rubbed on all his ailing parts. This was repeated for
 several days until warmth in the affected parts and a proper circulation
 of the blood was attained. When the patient was able to get up and walk,
@@ -2451,7 +2487,7 @@ is rarely to be found anywhere else.
 
 The leaves were steamed and applied externally as a poultice over the
 swollen parts of the throat caused by inflammation of the throat glands,
-and also for scrofula. While the latter malady didn’t exist among the
+and also for scrofula. While the latter malady didn't exist among the
 Indians, yet they treated and cured some of the whites who had it, with
 _Nicotiana glauca_.
 
@@ -2511,7 +2547,7 @@ were allowed to get into fresh water to recuperate.
                            MONTIA PERFOLIATA
                          (_Ind. Lah-chu-meek_)
 
-American Miner’s Lettuce. This plant inhabits the coastal regions where
+American Miner's Lettuce. This plant inhabits the coastal regions where
 it thrives only in deep, decomposed beds of oak-tree mulch at suitable
 points in the shady woodlands, where the circulation of water is present
 under a deposit of mulch.
@@ -2530,7 +2566,7 @@ of _Rhus trilobata_.
                              RHUS TRILOBATA
                             (_Ind. Sa-lat_)
 
-American Squaw-weed. An inhabitant of Southern California’s higher
+American Squaw-weed. An inhabitant of Southern California's higher
 ranges, it makes an excellent restorative for an inactive stomach which
 refuses food. The Indians also obtained the fiber from the vines of the
 shrub by stripping it off with the thumbnail and using it for basket
@@ -2551,7 +2587,7 @@ It was the custom of the Indians then to discard their buckskin clothes
 and roam around with as little covering as possible until the fall of
 the year, when they donned their heavier clothing again for the
 approaching cold weather. Now, it is well-known how disagreeable the
-odor of garlic is to most human beings, but they don’t know that it is
+odor of garlic is to most human beings, but they don't know that it is
 likewise so to reptiles and insects. The Indians, however, knew this,
 although they never ate it. They used it only as medicine when needed,
 but its greatest usefulness was to guard against being bitten by
@@ -2607,7 +2643,7 @@ shown it by the Indians.
                           PHYTOLACCA DECANDRA
                        (_Ind. Che-ne-va-ica-cal_)
 
-American Ink Berry. This shrub, a common inhabitant of California’s
+American Ink Berry. This shrub, a common inhabitant of California's
 coastal regions, has been placed by the white writer in the division of
 poisonous plants, and we agree with him. So the only credit given the
 plant is chiefly for the remarkable beauty it displays with its starlike
@@ -2619,7 +2655,7 @@ of life vanished from the face of the earth. For these two are
 responsible for the preservation and propagation of the shrub.
 
 Morphine, opium, and cocaine are by far deadlier poisons than
-_Phytolacca_—why, then, do doctors prescribe them to soothe and ease
+_Phytolacca_--why, then, do doctors prescribe them to soothe and ease
 pain, etc.? The root of the plant has some medicinal qualities to ease
 severe neuralgic pains, and is deemed very efficient and important in
 Indian medical formulas. For making dyes and inks the berries are
@@ -2642,17 +2678,17 @@ been given it, and is fully worthy of the name it bears, _Officinale_,
 which means all that the word implies. The Indians, having discovered
 the medicinal qualities of this plant, immediately gave it a place in
 their medical and food division and, up to the present year of our Lord,
-the plant has been used in the treatment of disorders of the liver—cases
-such as torpid liver, cirrhosis of the liver and as a dissolvent of
-gallstones, etc.
+the plant has been used in the treatment of disorders of the
+liver--cases such as torpid liver, cirrhosis of the liver and as a
+dissolvent of gallstones, etc.
 
-When these diseases are curable, the diet is simple—with no restrictions
-and no red tape to plague the patient. The first meal taken in the
-morning must consist of _Nasturtium officinale_, salted very sparingly,
-and of this the patient should eat as much as possible and do without
-further food until noon, when he may eat whatever he likes. This method
-must be repeated every morning. Care must be taken not to use liquor if
-one wishes to insure quick recovery.
+When these diseases are curable, the diet is simple--with no
+restrictions and no red tape to plague the patient. The first meal taken
+in the morning must consist of _Nasturtium officinale_, salted very
+sparingly, and of this the patient should eat as much as possible and do
+without further food until noon, when he may eat whatever he likes. This
+method must be repeated every morning. Care must be taken not to use
+liquor if one wishes to insure quick recovery.
 
 When the liver is ulcerated it takes at least two months to heal
 properly, but all other cases are of short duration.
@@ -2708,24 +2744,24 @@ mostly grows in soils totally unfit for agriculture, or anything else,
 for that matter.
 
 Let me mention, however, that there is quite a history connected with
-the earliest beginning of the Indian’s life in connection with this
+the earliest beginning of the Indian's life in connection with this
 plant. No doubt it will be of interest to the readers of this book to
 learn that the plant played an important part in what is today assumed
-to be a modern institution—birth-control.
+to be a modern institution--birth-control.
 
 The Indians knew and practiced it from the earliest times, but only in
 cases when women proved themselves incapable, even when at their best,
 to give birth to healthy children.
 
 In such cases they were compelled to make use of this plant as a
-preventative and this should explain the Indian’s wonderful stamina, his
+preventative and this should explain the Indian's wonderful stamina, his
 sturdiness and perfect physique. Moreover, the great chiefs prohibited
 the raising of deformed children, as ordinarily they considered this a
 great sin.
 
 In later years the secret was let out by some Indian women, and thus it
 found its way among the Spanish and American settlers, when many cases
-of abortion were due to the use of this herb—a universal practice of
+of abortion were due to the use of this herb--a universal practice of
 modern civilization with its accompanying evils of genocide and other
 evils of a criminal nature.
 
@@ -2774,7 +2810,7 @@ to get it anywhere. Even butcher shops and vegetable dealers sell it.
                           (_Ind. Cho-co-late_)
 
 American Cocklebur. It grows everywhere in California, being found in
-every swamp and pasture land—a veritable nuisance to the cattle raiser.
+every swamp and pasture land--a veritable nuisance to the cattle raiser.
 
 From the medical standpoint, however, the plant is very valuable to the
 members of both sexes who are suffering from diseased kidneys
@@ -2858,14 +2894,14 @@ the means of saving life. The Indians knew that better than anyone else.
 
 No doubt, the following literary effort in the English language by Chief
 Pablo will set the risibilities of my readers to working. Als, the
-Chief, never had the benefit of a school education, and English wasn’t
+Chief, never had the benefit of a school education, and English wasn't
 easy for him to acquire. However, he was game, and in 1908, when he was
 appointed Chief of the Indian Reservation, he bravely set to work and
 wrote this article.
 
 He was sixty-four years old then. Nothing would do but he must have a
 typewriter. Right manfully he tackled it, but when he had finished he
-heaved a tremendous sigh and declared he’d rather go on the warpath than
+heaved a tremendous sigh and declared he'd rather go on the warpath than
 pound a typewriter again.
 
 But he surely deserves great credit and his record as Chief of the
@@ -2897,25 +2933,25 @@ everything to find them, the father and mother and the relatives in
 their sorrow went to the witch-doctors to see if they could help them
 find the children. Then one witch-doctor said:
 
-“Come with me and I will show you where your children are and how they
+"Come with me and I will show you where your children are and how they
 disappeared in those springs. You may not see them but you will hear
-them, and you will have to be satisfied.”
+them, and you will have to be satisfied."
 
-So the children’s family went there and the witch-doctor stopped at the
+So the children's family went there and the witch-doctor stopped at the
 center spring and said:
 
-“Listen to the Great Father who is above us, the Creator of the world.
+"Listen to the Great Father who is above us, the Creator of the world.
 He has taken your boy and put him in this spring, so that this spring
-will bring health to you and to others.”
+will bring health to you and to others."
 
 Then the witch-doctor walked up to the spring and spoke:
 
-“Brother, your father and mother and all the relatives are here, and
-they would like to hear from you.”
+"Brother, your father and mother and all the relatives are here, and
+they would like to hear from you."
 
 Then a voice arose from the spring and said:
 
-“I am here with my two sisters. We were placed here by our Lord, the
+"I am here with my two sisters. We were placed here by our Lord, the
 Creator of the world. He has given me the power to bring new life to
 those who are sick. You may come and visit me and my sisters whenever
 you wish. My elder sister is in the spring on the east side of me, and
@@ -2923,7 +2959,7 @@ my younger sister in the spring on the west side of me. But we are all
 three in this one place, and if you will live together and honor the
 great Lord, when you are sick if you will use these life springs, we
 will help you get back your health. These springs shall be known as the
-‘Two Sisters and Brother Life Springs.’”
+'Two Sisters and Brother Life Springs.'"
 
 And all the people listened. Therefore the Indians went up there and
 held a great ceremony, and from then on they used the springs for
@@ -2941,14 +2977,14 @@ Indians had to leave the springs, which originally belonged to them.
 When the mission was first built at San Gabriel the priest asked an
 Indian:
 
-“Why do you Indians take your children, when they are sick, to those
-springs, instead of taking them to a doctor?”
+"Why do you Indians take your children, when they are sick, to those
+springs, instead of taking them to a doctor?"
 
 And the Indian answered:
 
-“Father, the springs at Homuba Canyon can cure any sickness. That is why
+"Father, the springs at Homuba Canyon can cure any sickness. That is why
 we take our children there when they are sick, and they are healed. Our
-ancestors used those springs and became healed.”
+ancestors used those springs and became healed."
 
 Then the priest went up to the springs to examine the water, and he took
 some of the water and made the Indian carry it to the chapel, and he
@@ -2993,24 +3029,24 @@ It was in 1908 that special officers suppressed the liquor traffic among
 the mission Indians in Southern California. The chief of these special
 officers came to me and asked:
 
-“Why is it that you are always fighting the whites?”
+"Why is it that you are always fighting the whites?"
 
-“Because they are all liars, thieves, and whisky peddlers,” I answered.
+"Because they are all liars, thieves, and whisky peddlers," I answered.
 
 He looked at me and said:
 
-“Am I a liar and a whisky peddler?”
+"Am I a liar and a whisky peddler?"
 
-“No,” I answered. “You do not look like one. I think you are on the
-square.”
+"No," I answered. "You do not look like one. I think you are on the
+square."
 
 So he said to me:
 
-“I want you to work with me on the same job.”
+"I want you to work with me on the same job."
 
-“What job do you mean?” said I.
+"What job do you mean?" said I.
 
-“To suppress the liquor traffic among the mission Indians,” he said.
+"To suppress the liquor traffic among the mission Indians," he said.
 
 So I was deputized as Special Officer since then, and I became Chief of
 Police in the Indian Service for nine Indian reservations under the
@@ -3222,7 +3258,7 @@ herbs.
 
 
                                     W
-  Women’s diseases, 14, 15, 60
+  Women's diseases, 14, 15, 60
       Birth control, 67
       Childbirth, 14, 16, 50, 56, 67
       Menstrual difficulties, 14, 15, 60
@@ -3340,7 +3376,7 @@ herbs.
   Fern, Purple cliff-brake, 22
   Feverfew, 60
   _Fouquieria splendens_, 28
-  Four O’clock, 10
+  Four O'clock, 10
   _Frasera_, 15
   Fuchsia, Wild, 12
 
@@ -3396,7 +3432,7 @@ herbs.
   Laurel, Mountain, 52
   Leek, House, 47
   _Lepidium epetalum_, 66
-  Lettuce, Miner’s, 62
+  Lettuce, Miner's, 62
   Lilac, Wild, 40
   _Lippia lanceolata_, 60
   Locoweed, 36
@@ -3497,7 +3533,7 @@ herbs.
   Rose, Wild, 8
   Rosemary, 48
   _Rubus villosus_, 7, 70
-  Rue, Garden (Goat’s), 15
+  Rue, Garden (Goat's), 15
   _Rumex hymenocallis_, 17
 
 
@@ -3516,7 +3552,7 @@ herbs.
   _Saponaria officinalis_, 40
   _Sempervivum_, 47
   Serum, Botanical, 11
-  Shepherd’s purse, 7
+  Shepherd's purse, 7
   _Sisyrinchium angustifolium_, 6
   Sneezeweed, 24
   Soap plant, 39
@@ -3612,11 +3648,11 @@ specimens of medicinal herbs and Indian artifacts.
   Mr. Romero, whose Indian name is Ha-Ha-St of Tawee, presents his
 material in highly entertaining manner, and his remarks, some of them
 _sotto voce_, are extremely apropos. Adding to the color of the book is
-a wonderful legend written by the author’s father, Chief Als Pablo,
+a wonderful legend written by the author's father, Chief Als Pablo,
 Chief of Police of the Indian reservations in the Southwest at the turn
 of the century.
 
-  The book is dedicated to the memory of the author’s uncle, Chief
+  The book is dedicated to the memory of the author's uncle, Chief
 William Pablo of Guana-pia-pa, medical herbalist and medicine man. It is
 a unique treasury of authentic Americana, fortunately preserved for our
 time.
@@ -3645,11 +3681,11 @@ graduated from the Detroit Veterinarian College.
 At one time, the Cahuilla Indians controlled the lands of California
 southward to the end of what is now the Mexican peninsula. When the
 Chu-Mash tribe, in its later years, had dwindled in numbers, Mr. Romero
-joined the Cahuilla tribe “to help fight the United States Government
-for our land treaty rights.” Today this tribe is the second oldest in
+joined the Cahuilla tribe "to help fight the United States Government
+for our land treaty rights." Today this tribe is the second oldest in
 California and the strongest in membership.
 
-The author’s interests are wide. He is a director of Indian Affairs for
+The author's interests are wide. He is a director of Indian Affairs for
 seven Southern California counties, and while his principal hobby is
 medicinal botany, he is also a collector of minerals, stamps, books, and
 fossils, and dabbles in taxidermy. Fond of children, he has adopted and
@@ -3657,7 +3693,7 @@ reared ten orphans. At one time or another, he has worked as a surveyor,
 explorer, geologist, and antho-botanist, and his home is a veritable
 treasure trove of interesting archaeological, geological, and botanical
 specimens which he has collected in the mountains and deserts of
-Southern California and Arizona—in sections where the white man has
+Southern California and Arizona--in sections where the white man has
 seldom traveled.
 
 In 1933 he discovered, in the Trabuco Hills, in Orange County, near Los
@@ -3677,15 +3713,15 @@ country and primitive conceptions of the supernatural.
 
 
 
-                          Transcriber’s Notes
+                          Transcriber's Notes
 
 
-—Retained copyright information from the printed edition: this eBook is
+--Retained copyright information from the printed edition: this eBook is
   public-domain in the country of publication.
 
-—Silently corrected a few palpable typos.
+--Silently corrected a few palpable typos.
 
-—In the text versions only, text in italics is delimited by
+--In the text versions only, text in italics is delimited by
   _underscores_.
 
 
@@ -3697,4 +3733,365 @@ country and primitive conceptions of the supernatural.
 End of the Project Gutenberg EBook of The Botanical Lore of the California
 Indians, by John Bruno Romero and Ha-Ha-St of Tawee
 
-*** END OF THE PROJECT GUTENBERG EBOOK 55009 ***
+*** END OF THIS PROJECT GUTENBERG EBOOK BOTANICAL LORE--CALIFORNIA INDIANS ***
+
+***** This file should be named 55009-8.txt or 55009-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/5/0/0/55009/
+
+Produced by Stephen Hutcheson and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
